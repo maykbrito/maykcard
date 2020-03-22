@@ -1,0 +1,16 @@
+{
+  "name": "Mayk Brito",
+  "priorities" : [
+    "Family", "Work"
+  ],
+  "work" : [
+    "@rocketseat"
+  ],
+  "twitter": "@maykbrito",
+  "tech" : [
+    "HTML", "CSS", "JavaScript", "SQL", "React"
+  ],
+  "titles" : [
+    "Instructor at Rocketseat"
+  ]
+}

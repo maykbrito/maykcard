@@ -1,0 +1,23 @@
+{
+  "name": "maykcard",
+  "version": "1.0.0",
+  "description": "Contact Information about Mayk Brito",
+  "main": "index.js",
+  "bin": {
+    "maykcard": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "person",
+    "contact"
+  ],
+  "author": "Mayk Brito",
+  "license": "MIT",
+  "dependencies": {
+    "cfonts": "^2.8.1",
+    "inquirer": "^7.1.0",
+    "opn": "^6.0.0"
+  }
+}

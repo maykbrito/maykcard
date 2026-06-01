@@ -17,7 +17,7 @@
   "license": "MIT",
   "dependencies": {
     "cfonts": "^2.8.1",
-    "inquirer": "^7.1.0",
+    "inquirer": "^14.0.2",
     "opn": "^6.0.0"
   }
 }
